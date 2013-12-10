@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://letmein-ws.esy.es/usuarios.php" uri="xml-resources/web-service-references/usuarios/wsdl/letmein-ws.esy.es/usuarios.php"/>
+    <system systemId="http://letmein-ws.esy.es/usuarios.php?wsdl" uri="xml-resources/web-service-references/usuarios/wsdl/letmein-ws.esy.es/usuarios.php.wsdl"/>
+    <system systemId="http://letmein-ws.esy.es/usuarios.php?WSDL" uri="xml-resources/web-service-references/usuarios/wsdl/letmein-ws.esy.es/usuarios.php.wsdl"/>
+</catalog>

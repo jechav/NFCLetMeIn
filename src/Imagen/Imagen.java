@@ -20,7 +20,7 @@ public class Imagen {
 
     public int saveImage(String id) throws IOException {
         int estado=0;
-        String imageUrl = "http://letmein-ws.esy.es/imagenes/"+id+".jpg";
+        String imageUrl = "http://letmein-webservices.esy.es/Imagenes/"+id+".jpg";
         String destinationFile = System.getProperty("java.io.tmpdir").toString()+id+".jpg";
             
         URL url = new URL(imageUrl);
